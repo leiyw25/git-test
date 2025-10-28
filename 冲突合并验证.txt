@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hhh
-我现在在master中修改内容
-=======
-hhhh
->>>>>>> abc
+这是在github上修改的内容
